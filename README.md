@@ -10,7 +10,7 @@ I am Arturo Pascual Rizo from Valencia, Spain. I am currently studying programmi
 
 - Learning
 
-<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/js/js.png" alt="v logo" width="24"> 
+<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/javascript/javascript.png" alt="v logo" width="24"> 
 
 ### Tools 🛠️
 
